@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:frontend/my_home_page.dart';
+import 'package:frontend/presentation/globe_screen.dart';
+
 
 void main() {
   runApp(const MyApp());
